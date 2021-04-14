@@ -1,0 +1,1 @@
+Hi! 👋 My name is Isti, I am a web developer based in Romania, Szekelyudvarhely. I was born here, visited different countries, but came back. I work for a developer company currently. More coming soon.
