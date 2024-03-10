@@ -1,6 +1,6 @@
-#### Hi! 👋 My name is Istvan, nicknamed Isti.
+#### Hi! My name is Istvan, nicknamed Isti.
 
-I work **@NTT Data** as a **Full-stack** developer.
+I work **@NTT Data** as a **Full-stack** developer and I also do freelance stuff.
 
 **Some of the technologies I love to use daily**:
 
